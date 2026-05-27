@@ -30,4 +30,4 @@ Folgende Quellen und Dokumentationen wurden für die Bearbeitung der Aufgabe ver
     *   Thema: Persistente Speicherung von Benutzer-Einstellungen (Snooze-Zeit).
     *   URL: [https://developer.android.com/training/data-storage/shared-preferences](https://developer.android.com/training/data-storage/shared-preferences)
 
-Für die erstellung von Kommentaren sowie der Verschönerung vom Quellverzeichnis und Wissenslücken wurde KI genutzt.
+Für die erstellung von Kommentaren sowie der Verschönerung vom Quellverzeichnis, Wissenslücken und Code Optimierung wurde KI genutzt.

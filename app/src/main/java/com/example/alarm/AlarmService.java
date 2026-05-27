@@ -60,7 +60,7 @@ public class AlarmService extends Service {
                 notificationIntent, PendingIntent.FLAG_UPDATE_CURRENT | PendingIntent.FLAG_IMMUTABLE);
 
         Notification notification = new NotificationCompat.Builder(this, CHANNEL_ID)
-                .setContentTitle("Alarm is ringing!")
+                .setContentTitle("WAKE UP!")
                 .setContentText("Tap to snooze or dismiss")
                 .setSmallIcon(android.R.drawable.ic_lock_idle_alarm)
                 .setPriority(NotificationCompat.PRIORITY_HIGH)
